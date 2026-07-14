@@ -1,5 +1,3 @@
-# antartiqua.
-The operating system for creators
 # AntartiQua
 
 ## The Operating System for Creators
