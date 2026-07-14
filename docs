@@ -1,1 +1,85 @@
 docs/00_FOUNDER_OS.md
+# AntartiQua Founder Operating System
+
+## Mission
+
+AntartiQua exists to become the operating system for creators.
+
+Our mission is to help musicians, producers, designers, filmmakers, photographers, writers, creative directors and brands collaborate, create, grow and build sustainable creative businesses.
+
+---
+
+## Vision
+
+Create the world's most trusted creative collaboration platform.
+
+AntartiQua should become the daily workspace where creators build projects, find collaborators, host discussions, manage opportunities and grow professionally.
+
+---
+
+## Core Principles
+
+- Clarity over complexity.
+- Collaboration over competition.
+- Quality over quantity.
+- Build reusable systems.
+- Every feature must solve a real problem.
+- AI should amplify creators, not replace them.
+- Long-term thinking over short-term trends.
+- Documentation is part of the product.
+- Design should feel calm, premium and intentional.
+
+---
+
+## Product Pillars
+
+### Concentrations
+
+Creative projects.
+
+### Harmonies
+
+Live collaboration spaces.
+
+### Exchange
+
+Professional creator marketplace.
+
+---
+
+## Engineering Principles
+
+- Never duplicate code.
+- Search before creating.
+- Reuse components.
+- Keep architecture modular.
+- Separate UI from business logic.
+- Use strict typing.
+- Write maintainable code.
+- Document every important decision.
+
+---
+
+## AI Rules
+
+Before making any change:
+
+1. Read the documentation.
+2. Understand the architecture.
+3. Search the codebase.
+4. Explain the implementation plan.
+5. Build only the approved module.
+6. Test the implementation.
+7. Update documentation.
+
+---
+
+## Success
+
+Every improvement should make AntartiQua:
+
+- easier to use
+- faster
+- more scalable
+- easier to maintain
+- more valuable for creators
